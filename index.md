@@ -14,7 +14,7 @@ In these 3 years at Monash, it enabled me to do things I like and surrounded me 
 
 
 
-![alt text](https://github.com/Etan01/etan01_github.io/blob/monash-logo.png?raw=true)
+![alt text](https://github.com/Etan01/etan01_github.io/blob/main/images/monash.jpg?raw=true)
 
 
 
